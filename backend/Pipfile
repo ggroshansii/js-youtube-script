@@ -7,6 +7,12 @@ name = "pypi"
 flask = "*"
 flask-cors = "*"
 python-dotenv = "*"
+beautifulsoup4 = "*"
+requests = "*"
+selenium = "*"
+splinter = "*"
+lxml = "*"
+cssselect = "*"
 
 [dev-packages]
 
