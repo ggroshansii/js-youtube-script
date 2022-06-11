@@ -18,7 +18,7 @@ useEffect(() => {
     setResponse(data.response);
   }
   testEndpoint();
-})
+}, [] )
 
   return (
     <div className="App">
